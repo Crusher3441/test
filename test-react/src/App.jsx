@@ -17,6 +17,18 @@ function App() {
       pellendus, maxime nam a rem sit accusamus facilis esse qu
       
       asi culpa eum tempore facere eius dignissimos illum soluta ducimus! Neque sunt quaerat, vel qui modi voluptatum alias doloremque dolorum sint, et excepturi autem ratione, iure consectetur. */}
+
+
+      {/* changes by aryan */}
+
+      <p> top 3 actors : </p>
+      <ul>
+        <li> john cena </li>
+        <li> sunny deol </li>
+        <li> iliana </li>
+      </ul>
+
+
     </>
   )
 }
